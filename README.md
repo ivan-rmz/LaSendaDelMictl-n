@@ -2,6 +2,10 @@
 
 [Download all the files to play on Windows](https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/tree/main/HACKERMAN%20EJECUTABLE)
 
+### Avances de 24 horas en Game Jam | Youtube Video - click on image
+[![Avances](https://img.youtube.com/vi/vWxsvIn9dvE/0.jpg)](https://www.youtube.com/watch?v=vWxsvIn9dvE)
+
+
 ## Narrativa
 Inicio de Juego
 Hace mucho tiempo antes de que esta humanidad existiera, mucho antes de que el sol mismo cruzara los cielos, Teotihuacan la habitaban los dioses. Tras fallar cuatro Dioses cuando intentaron crear a la humanidad con distintos materiales,  optaron por guardar los restos del último intento, en un lugar similar al inframundo, el Mictlán.  

@@ -29,38 +29,39 @@ Pasado un tiempo el dios Quetzalcóatl se decidió por un último y quinto inten
         
 ## JUEGO
 		### Nivel 1-Itzcuintlan - (Río con obstáculos te persigue serpiente)
-		 Obstáculos: 
+		Obstáculos: 
 			Piedras
 			Remolinos
 			Peces
 
 
 
-Nivel 2-Tepe Monamictlan - (Pasar las montañas que colisionan)
-	Obstáculos:
-Se le cierran los muros en pinza
-Completarlo en tiempo limite (Inicia con 20s)
-Recoger monedas del sol para regenerar tiempo
+		### Nivel 2-Tepe Monamictlan - (Pasar las montañas que colisionan)
+		Obstáculos:
+			Se le cierran los muros en pinza
+			Completarlo en tiempo limite (Inicia con 20s)
+			Recoger monedas del sol para regenerar tiempo
 
-Nivel 3-Itztepetl-(Escalar la montaña)
-	Obstaculos:
-Tipo Serpientes Escaleras de Donkey Kong.
+		### Nivel 3-Itztepetl-(Escalar la montaña)
+		Obstaculos:
+			Tipo Serpientes Escaleras de Donkey Kong.
 
-Nivel 4-Cehelóyan (Hacer parkour entre las montañas)
-	Obstaculos:
-Crashbandicoot
-Hacia abajo deslizandose
+		### Nivel 4-Cehelóyan (Hacer parkour entre las montañas)
+		Obstaculos:
+			Crashbandicoot
+			Hacia abajo deslizandose
 
-Nivel 5-Pancuetlaca
-	Agaves de color similar
-	Mucho tiempo en un lugar te quita vida
+		### Nivel 5-Pancuetlaca
+		Obstaculos
+			Agaves de color similar
+			Mucho tiempo en un lugar te quita vida
 
-Nivel 6-Teniminalóyan (Muro avienta felchas)
- Objetos en el suelo para recuperar vida
-Ponerle muros para cubrirse
+		### Nivel 6-Teniminalóyan (Muro avienta felchas)
+		Objetos en el suelo para recuperar vida
+		Ponerle muros para cubrirse
 
-Nivel 7 - Teyollocualóyan (Jaguares jungla)
-Escapar de la jungla, te persiguen jaguares, si te agarra uno mueres
-Protegerse con antorchas 
+		### Nivel 7 - Teyollocualóyan (Jaguares jungla)
+		Escapar de la jungla, te persiguen jaguares, si te agarra uno mueres
+		Protegerse con antorchas 
 
-Nivel 8 - Apanohualóyan (
+		### Nivel 8 - Apanohualóyan 

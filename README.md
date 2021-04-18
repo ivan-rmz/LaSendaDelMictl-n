@@ -1,6 +1,6 @@
 # La Senda Del Mictlán
 
-[Download all the files to play on Windows}(https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/tree/main/HACKERMAN%20EJECUTABLE)
+[Download all the files to play on Windows](https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/tree/main/HACKERMAN%20EJECUTABLE)
 
 ## Narrativa
 Inicio de Juego

@@ -1,11 +1,11 @@
 # La Senda Del Mictlán
-##Narrativa
+## Narrativa
 Inicio de Juego
 Hace mucho tiempo antes de que esta humanidad existiera, mucho antes de que el sol mismo cruzara los cielos, Teotihuacan la habitaban los dioses. Tras fallar cuatro Dioses cuando intentaron crear a la humanidad con distintos materiales,  optaron por guardar los restos del último intento, en un lugar similar al inframundo, el Mictlán.  
 
 Pasado un tiempo el dios Quetzalcóatl se decidió por un último y quinto intento, al proponerles la idea al resto de los dioses, ninguno quiso unirse al intento. El viaje al Mictlán imponía riesgos que harían sufrir hasta a un Dios.
 
-##Primer Nivel
+## Primer Nivel
              
 	     Has entrado al primer nivel, Itzcuintlan. 
 	     
@@ -20,21 +20,19 @@ Pasado un tiempo el dios Quetzalcóatl se decidió por un último y quinto inten
 	     que te acompañaré en tu viaje para apoyarte en los 8 niveles que tendrás que completar 
 	     para llegar con él.  
 	     
-	     ###Instrucciones
-
-Xolo: En este primer nivel enfrentarás un río que has de cruzar nadando evitando toda clase de obstáculos, de no ser así tendrás que volver a empezar, beneficios de que seas un Dios, no olvides que no podrás regresar en tus pasos, pues detrás de ti vendrá una serpiente.
-
-
-
-
-
+	     ### Instrucciones
+	     
+	     Xolo: En este primer nivel enfrentarás un río que has de cruzar nadando evitando toda
+	     clase de obstáculos, de no ser así tendrás que volver a empezar, beneficios de que seas
+	     un Dios, no olvides que no podrás regresar en tus pasos, pues detrás de ti vendrá una
+	     serpiente.
         
-JUEGO
-Nivel 1-Itzcuintlan - (Río con obstáculos te persigue serpiente)
- Obstáculos: 
-Piedras
-Remolinos
-Peces
+## JUEGO
+		### Nivel 1-Itzcuintlan - (Río con obstáculos te persigue serpiente)
+		 Obstáculos: 
+			Piedras
+			Remolinos
+			Peces
 
 
 

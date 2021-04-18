@@ -26,6 +26,9 @@ Pasado un tiempo el dios Quetzalcóatl se decidió por un último y quinto inten
 	     clase de obstáculos, de no ser así tendrás que volver a empezar, beneficios de que seas
 	     un Dios, no olvides que no podrás regresar en tus pasos, pues detrás de ti vendrá una
 	     serpiente.
+  
+  ![alt text](https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/blob/main/unknown.png)
+
         
 ## JUEGO
   ### Nivel 1 | Itzcuintlan - (Río con obstáculos te persigue serpiente)

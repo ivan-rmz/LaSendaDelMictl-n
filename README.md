@@ -27,7 +27,9 @@ Pasado un tiempo el dios Quetzalcóatl se decidió por un último y quinto inten
 	     un Dios, no olvides que no podrás regresar en tus pasos, pues detrás de ti vendrá una
 	     serpiente.
   
-  ![alt text](https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/blob/main/unknown.png)
+  ![Start](https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/blob/main/unknown.png)
+  ![End](https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/blob/main/unknown%20(1).png)
+
 
         
 ## JUEGO

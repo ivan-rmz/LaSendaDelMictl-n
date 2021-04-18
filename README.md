@@ -1,4 +1,4 @@
-# LaSendaDelMictlán
+# La Senda Del Mictlán
 Narrativa
 Inicio de Juego
 Hace mucho tiempo antes de que esta humanidad existiera, mucho antes de que el sol mismo cruzara los cielos, Teotihuacan la habitaban los dioses. Tras fallar cuatro Dioses cuando intentaron crear a la humanidad con distintos materiales,  optaron por guardar los restos del último intento, en un lugar similar al inframundo, el Mictlán.  

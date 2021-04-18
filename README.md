@@ -9,8 +9,8 @@ Pasado un tiempo el dios Quetzalcóatl se decidió por un último y quinto inten
              
 	     Has entrado al primer nivel, Itzcuintlan. 
 	     
-             Xolo: Hola Quetzalcoatl! ¿Qué hace un Dios cómo tú en la travesía de los simples 
-             mortales.
+	     Xolo: Hola Quetzalcoatl! ¿Qué hace un Dios cómo tú en la travesía de los simples
+	     mortales.
 	     
 	     Quetzalcoatl: Me he decidido por crear a una nueva humanidad y Mictlantecuhtli tiene los
 	     huesos que necesito para cumplir con mi meta.

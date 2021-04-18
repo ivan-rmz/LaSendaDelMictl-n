@@ -47,6 +47,8 @@ Pasado un tiempo el dios Quetzalcóatl se decidió por un último y quinto inten
 			Completarlo en tiempo limite (Inicia con 20s)
 			Recoger monedas del sol para regenerar tiempo
 
+  ![LevelTwo](https://github.com/ArmandoDLaRosa/LaSendaDelMictl-n/blob/main/unknown%20(2).png)
+
   ### Nivel 3 | Itztepetl-(Escalar la montaña)
 		Obstaculos:
 			Tipo Serpientes Escaleras de Donkey Kong.
